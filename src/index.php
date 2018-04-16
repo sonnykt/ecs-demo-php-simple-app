@@ -6,7 +6,7 @@
         <title>PolarSeven</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #9CE305;}</style>
+        <style>body {margin-top: 40px; background-color: #9CE3FF;}</style>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
@@ -15,7 +15,7 @@
         <div class="container">
             <div class="hero-unit">
                 <img src="assets/images/p7.png" width="250" height="120">
-                <h1>PolarSeven AWS Kubernetes CI/CD Pipeline Demo</h1>
+                <h1>Sonny - PolarSeven AWS Kubernetes CI/CD Pipeline Demo</h1>
                 <h2>Congratulations</h2>
                 <h2>THIS IS VERSION 1.4</h2>
                 <p>Your PHP application is now running on a container in AWS.</p>
